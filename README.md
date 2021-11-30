@@ -1,2 +1,2 @@
 # hyperskill_hangman
-Simple game where you should guess the words.
+Simple game where you should guess the words by letters.
